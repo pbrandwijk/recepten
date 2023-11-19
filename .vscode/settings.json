@@ -1,0 +1,19 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.detectIndentation": false,
+	"editor.insertSpaces": false,
+	"editor.wordWrap": "wordWrapColumn",
+	"editor.wordWrapColumn": 80,
+	"cSpell.language": "nl,es,en",
+	"cSpell.customDictionaries": {
+		"recepten-dictionary": {
+			"name": "recepten-dictionary",
+			"path": "${workspaceFolder:recepten}/.cspell/recepten-dictionary.txt",
+			"addWords": true,
+			"scope": "workspace",
+		}
+	},
+	"[markdown]": {
+		"editor.wordWrap": "wordWrapColumn"
+	},
+}
