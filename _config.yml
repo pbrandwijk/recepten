@@ -3,3 +3,5 @@ plugins:
   - jekyll-remote-theme
 title: Mijn favoriete recepten
 description: Een verzameling van hoofdzakelijk Nederlands-Spaanse en Spaans-Nederlandse recepten.
+baseurl: "/recepten"
+url: "https://pbrandwijk.github.io"
